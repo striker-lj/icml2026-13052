@@ -1,1 +1,7 @@
-# icml2026-13052
+# Supplementary Figures
+
+This repository contains supplementary figures for anonymous submission.
+
+## Figures
+
+![Figure 1](figures/fig1.png)
